@@ -2,8 +2,7 @@ import numpy as np
 import argparse
 
 def d_separation(num1, num2, list1):
-	# Algorithm implemented from Pseudo Code in the book
-
+	
 	# Input 
 	# Source variable
 	X = num1
