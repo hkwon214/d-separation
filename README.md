@@ -1,4 +1,4 @@
-
+# Probabilistic Graphical Model HW1
 Implement a method/function which takes a matrix representation of a DAG as input, along with a d-seperation query,
 and outputs a value TRUE or FALSE. Specifically, there is an attached dag.txt file on Piazza that accompanies this
 assignment, which is a 100x100 matrix of zeroes and ones. This matrix represents a DAG in the following way: if
